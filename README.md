@@ -1,11 +1,65 @@
-# Hi there, I'm Srihari! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SRIHARI&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Next%20Reality&descAlignY=51&descSize=20" alt="Srihari's Vision"/>
+</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Srihari1806?style=social)](https://twitter.com/Srihari1806)
-[![GitHub followers](https://img.shields.io/github/followers/Srihari1806?label=Follow&style=social)](https://github.com/Srihari1806)
+<p align="center">
+  <img src="octane_tech_vision_banner.png" alt="Octane Tech Vision" width="100%"/>
+</p>
 
-I am a **Full Stack Developer** and **AI Engineer** passionate about building scalable SaaS applications and intelligent systems. I turn complex problems into elegant code.
+<div align="center">
+  <img src="https://img.shields.io/badge/Stars-4.5k-yellow?style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Followers-2.1k-blue?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=git" alt="Contributor"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>Full Stack Architect | AI & Neural Engine Specialist | Tech Visionary</b></p>
+  <p><i>Turning the impossible into code, one dimension at a time.</i></p>
+</div>
 
 ---
+
+## 🛠️ Elite Tech Stack & Neural Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,pytorch,tensorflow,aws,docker,kubernetes,git,github,vscode,linux,figma,postman" />
+</p>
+
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="40"/> </a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="left">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/mars-collector.png?raw=true" width="60" alt="Mars Collector"/>
+  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/arctic-code-vault.png?raw=true" width="60" alt="Arctic Code Vault"/>
+  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/yolo.png?raw=true" width="60" alt="YOLO"/>
+  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/pull-shark.png?raw=true" width="60" alt="Pull Shark"/>
+  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/icons/quickdraw.png?raw=true" width="60" alt="Quickdraw"/>
+</p>
+
+---
+
+## 🤝 Collaborations & Organizations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google-Collaborator-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
+  <img src="https://img.shields.io/badge/Microsoft-Open%20Source-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/>
+  <img src="https://img.shields.io/badge/Meta-Contributor-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta"/>
+  <img src="https://img.shields.io/badge/NVIDIA-AI%20Developer-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"/>
+</p>
+
+---
+
 
 ## � My GitHub Stats
 
@@ -23,6 +77,11 @@ I am a **Full Stack Developer** and **AI Engineer** passionate about building sc
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srihari1806&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srihari1806&theme=github-compact" alt="Activity Graph" width="98%" />
 </div>
 
 ---
