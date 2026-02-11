@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/FOSSASIA-Contributor-FC2E20?style=for-the-badge&logo=fossasia" />
   <img src="https://img.shields.io/badge/NVIDIA-GameWorks-76B900?style=for-the-badge&logo=nvidia" />
   <img src="https://img.shields.io/badge/dwyl-Community-4BA059?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Codez--Tech-Member-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Wagmifund-Contributor-F3BA2F?style=for-the-badge&logo=binance" />
   <img src="https://img.shields.io/badge/Jazzband-Member-000000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/fnplus-Core-00BFFF?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Recyclero-Partner-2ECC71?style=for-the-badge&logo=github" />
