@@ -17,6 +17,11 @@ I am a **Full Stack Developer** and **AI Engineer** passionate about building sc
 <br/>
 
 <div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Srihari1806&theme=dark" alt="LeetCode Stats" width="98%" />
+</div>
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srihari1806&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </div>
 
